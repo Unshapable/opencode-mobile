@@ -1,10 +1,10 @@
 ﻿# opencode-mobile
 
-Use this skill when a user wants to run OpenCode, Codex, or Cursor from a phone without requiring the phone and computer to be on the same Wi-Fi network.
+Use this skill when a user wants to run OpenCode from a phone without requiring the phone and computer to be on the same Wi-Fi network.
 
 ## What this skill provides
 
-**opencode-mobile** is a practical Windows setup for using the Clawdex Mobile iOS/Android app as a mobile client for OpenCode and similar coding agents.
+**opencode-mobile** is a practical Windows setup for using the Clawdex Mobile iOS/Android app as a mobile client for OpenCode. Clawdex also supports Codex and Cursor, but this skill ships an OpenCode-first default.
 
 It is designed for the real-world mobile case:
 
@@ -373,3 +373,4 @@ Before publishing or sharing logs:
 - Do not share screenshots of the pairing QR.
 - Do not share `BRIDGE_AUTH_TOKEN`.
 - Keep `BRIDGE_ALLOW_QUERY_TOKEN_AUTH=false` for remote mode.
+
